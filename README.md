@@ -5,7 +5,7 @@
 <img src="./assets/borderseparator.gif" width="100%"/>
 
 <div align="center">
-    🕵️ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&duration=3000&pause=2000&color=60D0A9&center=true&vCenter=true&width=435&lines=You+are+safe+here!" alt="Typing SVG" align="center" width="100%"/> 🕵️
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=2000&color=60D0A9&center=true&vCenter=true&width=900&lines=You+are+safe+here!" alt="Typing SVG" align="center" width="90%"/> 
 </div>
 
 <img src="./assets/borderseparator.gif" width="100%"/>
@@ -40,6 +40,6 @@
     
 <div align="center"> 
     <a href="https://github.com/santosbpm">
-        <img src="./assets/bottom_banner.gif" align="center" alt="Bottom Banner" align="center" width="100%"/>
+        <img src="./assets/banner_bottom.gif" align="center" alt="Bottom Banner" align="center" width="100%"/>
     </a>
 </div>
